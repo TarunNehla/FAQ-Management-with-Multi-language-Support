@@ -1,6 +1,3 @@
-Here’s your **updated README.md** with the Redis setup using Docker and adjustments for `./backend/redisClient.js`. 🚀  
-
----
 
 ### **📖 README.md**  
 ```markdown
