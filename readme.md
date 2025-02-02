@@ -97,7 +97,7 @@ npm run dev
 
 ---
 
-## 🐳 Running with Docker Compose
+## 🐳 Running with Docker Compose (Currently there is some error, I will fix it to earliest)
 
 To start **backend + Redis** using `docker-compose.yml`:
 ```sh
