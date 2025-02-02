@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/faqs
+Content-Type: application/json
+
+{
+    "question": "What is the return policy?",
+    "answer": "You can return any item within 30 days of purchase.22"
+}
